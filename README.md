@@ -3,4 +3,4 @@
 
 https://jm.midoriit.com/ で可視化しています。
 
-この作品は [クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](http://creativecommons.org/licenses/by/4.0/)の下に提供されています
+この作品は [クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](http://creativecommons.org/licenses/by/4.0/) の下に提供されています。
