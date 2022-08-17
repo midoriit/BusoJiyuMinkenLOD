@@ -5772,6 +5772,138 @@
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/233"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="P00326">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">青木匡</rdfs:label>
+    <schema:name xml:lang="ja">青木匡</schema:name>
+    <schema:name xml:lang="ja-Hira">あおきただす</schema:name>
+    <schema:familyName xml:lang="ja">青木</schema:familyName>
+    <schema:givenName xml:lang="ja">匡</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">あおき</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">ただす</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1856</schema:birthDate>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/青木匡"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q108901221"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/111"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00327">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">船橋四郎</rdfs:label>
+    <schema:name xml:lang="ja">船橋四郎</schema:name>
+    <schema:familyName xml:lang="ja">船橋</schema:familyName>
+    <schema:givenName xml:lang="ja">四郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00328">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">佐々木国太郎</rdfs:label>
+    <schema:name xml:lang="ja">佐々木国太郎</schema:name>
+    <schema:familyName xml:lang="ja">佐々木</schema:familyName>
+    <schema:givenName xml:lang="ja">国太郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00329">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">和智保章</rdfs:label>
+    <schema:name xml:lang="ja">和智保章</schema:name>
+    <schema:familyName xml:lang="ja">和智</schema:familyName>
+    <schema:givenName xml:lang="ja">保章</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00330">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">大房半左衛門</rdfs:label>
+    <schema:name xml:lang="ja">大房半左衛門</schema:name>
+    <schema:familyName xml:lang="ja">大房</schema:familyName>
+    <schema:givenName xml:lang="ja">半左衛門</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00331">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">谷重喜</rdfs:label>
+    <schema:name xml:lang="ja">谷重喜</schema:name>
+    <schema:alternateName xml:lang="ja">谷神兵衛</schema:alternateName>
+    <schema:name xml:lang="ja-Hira">たにしげき</schema:name>
+    <schema:familyName xml:lang="ja">谷</schema:familyName>
+    <schema:givenName xml:lang="ja">重喜</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">たに</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">しげき</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1843-5-23</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1887</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/谷重喜"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q11633119"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00332">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">古沢滋</rdfs:label>
+    <schema:name xml:lang="ja">古沢滋</schema:name>
+    <schema:name xml:lang="ja-Hira">ふるさわしげる</schema:name>
+    <schema:alternateName xml:lang="ja-Hira">ふるさわうろう</schema:alternateName>
+    <schema:familyName xml:lang="ja">古沢</schema:familyName>
+    <schema:givenName xml:lang="ja">滋</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">ふるさわ</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">しげる</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1847-12-8</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-12-24</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:image rdf:resource="https://commons.wikimedia.org/wiki/File:Furusawa_Uro.jpg"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/古沢滋"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q11411346"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00333">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">小室信介</rdfs:label>
+    <schema:name xml:lang="ja">小室信介</schema:name>
+    <schema:alternateName xml:lang="ja">小室信介</schema:alternateName>
+    <schema:name xml:lang="ja-Hira">こむろしんすけ</schema:name>
+    <schema:familyName xml:lang="ja">小室</schema:familyName>
+    <schema:givenName xml:lang="ja">信介</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">こむろ</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">しんすけ</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1852-9-4</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-8-25</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/小室信介"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q11459641"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00334">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">曽田愛三郎</rdfs:label>
+    <schema:name xml:lang="ja">曽田愛三郎</schema:name>
+    <schema:familyName xml:lang="ja">曽田</schema:familyName>
+    <schema:givenName xml:lang="ja">愛三郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00335">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">田中力</rdfs:label>
+    <schema:name xml:lang="ja">田中力</schema:name>
+    <schema:familyName xml:lang="ja">田中</schema:familyName>
+    <schema:givenName xml:lang="ja">力</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="E00001">
     <rdf:type rdf:resource="https://schema.org/Event"/>
     <rdfs:label xml:lang="ja">発会式（鶯鳴社）</rdfs:label>
@@ -6259,6 +6391,95 @@
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/219"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="E00042">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">第壱回演説会</rdfs:label>
+    <schema:name xml:lang="ja">第壱回演説会</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1880-4-13</schema:startDate>
+    <schema:location rdf:resource="AB00035"/>
+    <schema:performer rdf:resource="P00015"/>
+    <schema:performer rdf:resource="P00202"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/108"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="E00043">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">定期法律講習会</rdfs:label>
+    <schema:name xml:lang="ja">定期法律講習会</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-1-19</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-1-20</schema:endDate>
+    <schema:location rdf:resource="AB00035"/>
+    <schema:location rdf:resource="AA03849"/>
+    <schema:performer rdf:resource="P00326"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/111"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="E00044">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">定期法律講習会</rdfs:label>
+    <schema:name xml:lang="ja">定期法律講習会</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-1-14</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-1-15</schema:endDate>
+    <schema:location rdf:resource="AB00035"/>
+    <schema:location rdf:resource="AA03849"/>
+    <schema:performer rdf:resource="P00326"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/111"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="E00045">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">第一回政談演説会</rdfs:label>
+    <schema:name xml:lang="ja">第一回政談演説会</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-9-20</schema:startDate>
+    <schema:location rdf:resource="AB00035"/>
+    <schema:organizer rdf:resource="P00327"/>
+    <schema:organizer rdf:resource="P00328"/>
+    <schema:organizer rdf:resource="P00329"/>
+    <schema:organizer rdf:resource="P00330"/>
+    <schema:performer rdf:resource="P00029"/>
+    <schema:performer rdf:resource="P00326"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="E00046">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">懇親会</rdfs:label>
+    <schema:name xml:lang="ja">懇親会</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-11-3</schema:startDate>
+    <schema:location rdf:resource="L00020"/>
+    <schema:attendee rdf:resource="P00215"/>
+    <schema:attendee rdf:resource="P00202"/>
+    <schema:attendee rdf:resource="P00073"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="E00047">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">自由党懇親会（遊船会）</rdfs:label>
+    <schema:name xml:lang="ja">自由党懇親会</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1883-6-3</schema:startDate>
+    <schema:location rdf:resource="AA03666"/>
+    <schema:organizer rdf:resource="P00115"/>
+    <schema:organizer rdf:resource="P00133"/>
+    <schema:attendee rdf:resource="P00331"/>
+    <schema:attendee rdf:resource="P00332"/>
+    <schema:attendee rdf:resource="P00333"/>
+    <schema:attendee rdf:resource="P00252"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="E00048">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">政談演説会</rdfs:label>
+    <schema:name xml:lang="ja">政談演説会</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1884-11-2</schema:startDate>
+    <schema:location rdf:resource="L00021"/>
+    <schema:performer rdf:resource="P00252"/>
+    <schema:performer rdf:resource="P00334"/>
+    <schema:performer rdf:resource="P00335"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="L00001">
     <rdf:type rdf:resource="https://schema.org/Place"/>
     <rdfs:label xml:lang="ja">佐の茂</rdfs:label>
@@ -6426,6 +6647,22 @@
     <schema:name xml:lang="ja">養英館</schema:name>
     <schema:containedInPlace rdf:resource="AB00012"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/213"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="L00020">
+    <rdf:type rdf:resource="https://schema.org/Place"/>
+    <rdfs:label xml:lang="ja">八木清楼</rdfs:label>
+    <schema:name xml:lang="ja">八木清楼</schema:name>
+    <schema:containedInPlace rdf:resource="AB00068"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="L00021">
+    <rdf:type rdf:resource="https://schema.org/Place"/>
+    <rdfs:label xml:lang="ja">清泉亭</rdfs:label>
+    <schema:name xml:lang="ja">清泉亭</schema:name>
+    <schema:containedInPlace rdf:resource="AB00068"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/112"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="AA00001">
@@ -41697,6 +41934,16 @@
     <geo:long>139.56274</geo:long>
     <geo:lat>35.90728</geo:lat>
     <schema:containedInPlace rdf:resource="AB00065"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="AB00068">
+    <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
+    <rdfs:label xml:lang="ja">川尻村</rdfs:label>
+    <schema:name xml:lang="ja">川尻村</schema:name>
+    <geo:long>139.302670</geo:long>
+    <geo:lat>35.595690</geo:lat>
+    <schema:containedInPlace rdf:resource="AA00033"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/川尻村_(神奈川県)"/>
   </rdf:Description>
 
 </rdf:RDF>
