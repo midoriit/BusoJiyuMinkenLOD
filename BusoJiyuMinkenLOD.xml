@@ -5757,6 +5757,7 @@
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1837-5-20</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1919-7-16</schema:deathDate>
+    <schema:memberOf rdf:resource="G00134"/>
     <schema:image rdf:resource="https://commons.wikimedia.org/wiki/File:Itagaki_Taisuke.jpg"/>
     <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/板垣退助"/>
     <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q456380"/>
@@ -5774,6 +5775,7 @@
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1838-3-11</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1922-1-10</schema:deathDate>
+    <schema:memberOf rdf:resource="G00135"/>
     <schema:image rdf:resource="https://commons.wikimedia.org/wiki/File:Shigenobu_Okuma_5.jpg"/>
     <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/大隈重信"/>
     <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q243141"/>
@@ -5951,7 +5953,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1852-3-10</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1886-1-11</schema:deathDate>
     <schema:gender rdf:resource="https://schema.org/Male"/>
-    <schema:memberOf rdf:resource="G00134"/>
+    <schema:memberOf rdf:resource="G00135"/>
     <schema:image rdf:resource="https://commons.wikimedia.org/wiki/File:ONO_Azusa.jpg"/>
     <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/小野梓"/>
     <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q2875279"/>
@@ -6041,7 +6043,7 @@
     <schema:familyName xml:lang="ja">吉田</schema:familyName>
     <schema:givenName xml:lang="ja">喜六</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
-    <schema:memberOf rdf:resource="G00134"/>
+    <schema:memberOf rdf:resource="G00135"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/159"/>
   </rdf:Description>
 
