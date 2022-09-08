@@ -6479,7 +6479,7 @@
     <rdfs:label xml:lang="ja">第一回親睦会（横須賀親睦会）</rdfs:label>
     <schema:name xml:lang="ja">第一回親睦会</schema:name>
     <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-2-20</schema:startDate>
-    <schema:location rdf:resource="L00010"/>5
+    <schema:location rdf:resource="L00010"/>
     <schema:organizer rdf:resource="G00069"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/217"/>
   </rdf:Description>
