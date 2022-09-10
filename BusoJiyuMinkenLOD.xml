@@ -1986,8 +1986,9 @@
     <schema:familyName xml:lang="ja-Hira">すずき</schema:familyName>
     <schema:givenName xml:lang="ja-Hira">なおなり</schema:givenName>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1887</schema:deathDate>
-    <schema:birthPlace rdf:resource="AA00557"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:birthPlace rdf:resource="AA00557"/>
+    <schema:homeLocation rdf:resource="AB00047"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/214"/>
   </rdf:Description>
@@ -2063,6 +2064,7 @@
     <schema:familyName xml:lang="ja">鈴木</schema:familyName>
     <schema:givenName xml:lang="ja">金助</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00653"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
   </rdf:Description>
 
@@ -2123,6 +2125,7 @@
     <schema:familyName xml:lang="ja">木村</schema:familyName>
     <schema:givenName xml:lang="ja">秀哉</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00653"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
   </rdf:Description>
 
@@ -2237,6 +2240,7 @@
     <schema:familyName xml:lang="ja">佐藤</schema:familyName>
     <schema:givenName xml:lang="ja">健治郎</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:memberOf rdf:resource="G00134"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/211"/>
   </rdf:Description>
 
@@ -2287,6 +2291,7 @@
     <schema:familyName xml:lang="ja">土屋</schema:familyName>
     <schema:givenName xml:lang="ja">勘兵衛</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA01038"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/211"/>
   </rdf:Description>
 
@@ -2517,6 +2522,7 @@
     <schema:givenName xml:lang="ja-Hira">なおまる</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <schema:children rdf:resource="P00046"/>
+    <schema:homeLocation rdf:resource="AA01038"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/212"/>
   </rdf:Description>
 
@@ -2527,6 +2533,7 @@
     <schema:familyName xml:lang="ja">橋本</schema:familyName>
     <schema:givenName xml:lang="ja">政直</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00893"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/212"/>
   </rdf:Description>
 
@@ -5055,9 +5062,12 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1859-8-23</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-2-27</schema:deathDate>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AB00073"/>
+    <schema:memberOf rdf:resource="G00134"/>
     <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/掘越寛介"/>
     <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q45830258"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/198"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/204"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="P00266">
@@ -5369,7 +5379,10 @@
     <schema:familyName xml:lang="ja">松本</schema:familyName>
     <schema:givenName xml:lang="ja">庄八</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03079"/>
+    <schema:memberOf rdf:resource="G00134"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/198"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/204"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="P00294">
@@ -5691,6 +5704,8 @@
     <schema:name xml:lang="ja">古市直之進</schema:name>
     <schema:familyName xml:lang="ja">古市</schema:familyName>
     <schema:givenName xml:lang="ja">直之進</schema:givenName>
+    <schema:homeLocation rdf:resource="AB00074"/>
+    <schema:memberOf rdf:resource="G00134"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/204"/>
   </rdf:Description>
@@ -6396,7 +6411,8 @@
     <schema:name xml:lang="ja">武相懇親会</schema:name>
     <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-1-30</schema:startDate>
     <schema:location rdf:resource="L00006"/>
-    <schema:organizer rdf:resource="G00043"/>
+    <schema:organizer rdf:resource="P00001"/>
+    <schema:organizer rdf:resource="P00071"/>
     <schema:performer rdf:resource="P00105"/>
     <schema:performer rdf:resource="P00057"/>
     <schema:performer rdf:resource="P00106"/>
@@ -42498,7 +42514,7 @@
     <schema:name xml:lang="ja">羽生町</schema:name>
     <schema:containedInPlace rdf:resource="AB00054"/>
     <geo:long>139.54858</geo:long>
-    <geo:lat>35.17267</geo:lat>
+    <geo:lat>36.17267</geo:lat>
     <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/羽生町"/>
   </rdf:Description>
 
@@ -42667,6 +42683,25 @@
     <geo:long>139.4649</geo:long>
     <geo:lat>35.78956</geo:lat>
     <schema:containedInPlace rdf:resource="AA00012"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="AB00073">
+    <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
+    <rdfs:label xml:lang="ja">川俣村</rdfs:label>
+    <schema:name xml:lang="ja">川俣村</schema:name>
+    <geo:long>139.537</geo:long>
+    <geo:lat>36.18732</geo:lat>
+    <schema:containedInPlace rdf:resource="AB00054"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/川俣村_(埼玉県)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="AB00074">
+    <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
+    <rdfs:label xml:lang="ja">成田町</rdfs:label>
+    <schema:name xml:lang="ja">成田町</schema:name>
+    <geo:long>139.45653</geo:long>
+    <geo:lat>36.13823</geo:lat>
+    <schema:containedInPlace rdf:resource="AB00054"/>
   </rdf:Description>
 
 </rdf:RDF>
