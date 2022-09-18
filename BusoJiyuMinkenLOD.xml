@@ -1655,6 +1655,56 @@
     <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/立憲改進党"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="G00136">
+    <rdf:type rdf:resource="https://schema.org/Organization"/>
+    <rdfs:label xml:lang="ja">武相困民党</rdfs:label>
+    <schema:name xml:lang="ja">武相困民党</schema:name>
+    <schema:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1884-11-19</schema:foundingDate>
+    <schema:organizer rdf:resource="P00364"/>
+    <schema:organizer rdf:resource="P00365"/>
+    <schema:organizer rdf:resource="P00366"/>
+    <schema:organizer rdf:resource="P00367"/>
+    <schema:organizer rdf:resource="P00368"/>
+    <schema:organizer rdf:resource="P00369"/>
+    <schema:organizer rdf:resource="P00370"/>
+    <schema:organizer rdf:resource="P00371"/>
+    <schema:organizer rdf:resource="P00372"/>
+    <schema:organizer rdf:resource="P00373"/>
+    <schema:organizer rdf:resource="P00374"/>
+    <schema:organizer rdf:resource="P00375"/>
+    <schema:organizer rdf:resource="P00376"/>
+    <schema:organizer rdf:resource="P00377"/>
+    <schema:organizer rdf:resource="P00378"/>
+    <schema:organizer rdf:resource="P00379"/>
+    <schema:organizer rdf:resource="P00380"/>
+    <schema:organizer rdf:resource="P00381"/>
+    <schema:organizer rdf:resource="P00382"/>
+    <schema:organizer rdf:resource="P00383"/>
+    <schema:organizer rdf:resource="P00384"/>
+    <schema:organizer rdf:resource="P00385"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="G00137">
+    <rdf:type rdf:resource="https://schema.org/Organization"/>
+    <rdfs:label xml:lang="ja">秩父困民党</rdfs:label>
+    <schema:name xml:lang="ja">困民党</schema:name>
+    <schema:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1883-8</schema:foundingDate>
+    <schema:organizer rdf:resource="P00389"/>
+    <schema:organizer rdf:resource="P00390"/>
+    <schema:organizer rdf:resource="P00391"/>
+    <schema:organizer rdf:resource="P00392"/>
+    <schema:organizer rdf:resource="P00394"/>
+    <schema:organizer rdf:resource="P00395"/>
+    <schema:organizer rdf:resource="P00396"/>
+    <schema:organizer rdf:resource="P00397"/>
+    <schema:organizer rdf:resource="P00398"/>
+    <schema:organizer rdf:resource="P00399"/>
+    <schema:organizer rdf:resource="P00400"/>
+    <schema:organizer rdf:resource="P00401"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/227"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="P00001">
     <rdf:type rdf:resource="https://schema.org/Person"/>
     <rdfs:label xml:lang="ja">石坂昌孝</rdfs:label>
@@ -2835,7 +2885,10 @@
     <schema:familyName xml:lang="ja">谷合</schema:familyName>
     <schema:givenName xml:lang="ja">弥七</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AB00011"/>
+    <schema:memberOf rdf:resource="G00134"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/213"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/257"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="P00091">
@@ -3520,8 +3573,10 @@
     <schema:familyName xml:lang="ja">山上</schema:familyName>
     <schema:givenName xml:lang="ja">卓樹</schema:givenName>
     <schema:homeLocation rdf:resource="AA00975"/>
+    <schema:memberOf rdf:resource="G00134"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/215"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/245"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/777960/17"/>
   </rdf:Description>
 
@@ -4771,8 +4826,11 @@
     <rdf:type rdf:resource="https://schema.org/Person"/>
     <rdfs:label xml:lang="ja">石坂公歴</rdfs:label>
     <schema:name xml:lang="ja">石坂公歴</schema:name>
+    <schema:name xml:lang="ja-Hira">いしざかまさつぐ</schema:name>
     <schema:familyName xml:lang="ja">石坂</schema:familyName>
     <schema:givenName xml:lang="ja">公歴</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">いしざか</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">まさつぐ</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <schema:parent rdf:resource="P00001"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/221"/>
@@ -6315,6 +6373,460 @@
     <schema:homeLocation rdf:resource="AB00072"/>
     <schema:memberOf rdf:resource="G00134"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/206"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00364">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">中島小太郎</rdfs:label>
+    <schema:name xml:lang="ja">中島小太郎</schema:name>
+    <schema:familyName xml:lang="ja">中島</schema:familyName>
+    <schema:givenName xml:lang="ja">小太郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00896"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00365">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">若林高之助</rdfs:label>
+    <schema:name xml:lang="ja">若林高之助</schema:name>
+    <schema:familyName xml:lang="ja">若林</schema:familyName>
+    <schema:givenName xml:lang="ja">高之助</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00897"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00366">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">佐藤昇之助</rdfs:label>
+    <schema:name xml:lang="ja">佐藤昇之助</schema:name>
+    <schema:familyName xml:lang="ja">佐藤</schema:familyName>
+    <schema:givenName xml:lang="ja">昇之助</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AB00075"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00367">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">須長漣造</rdfs:label>
+    <schema:name xml:lang="ja">須長漣造</schema:name>
+    <schema:familyName xml:lang="ja">須長</schema:familyName>
+    <schema:givenName xml:lang="ja">漣造</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00881"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00368">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">吉川福次郎</rdfs:label>
+    <schema:name xml:lang="ja">吉川福次郎</schema:name>
+    <schema:familyName xml:lang="ja">吉川</schema:familyName>
+    <schema:givenName xml:lang="ja">福次郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AB00012"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00369">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">西山甚左衛門</rdfs:label>
+    <schema:name xml:lang="ja">西山甚左衛門</schema:name>
+    <schema:familyName xml:lang="ja">西山</schema:familyName>
+    <schema:givenName xml:lang="ja">甚左衛門</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AB00012"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00370">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">石川吉右衛門</rdfs:label>
+    <schema:name xml:lang="ja">石川吉右衛門</schema:name>
+    <schema:familyName xml:lang="ja">石川</schema:familyName>
+    <schema:givenName xml:lang="ja">吉右衛門</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00836"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00371">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">笠原三郎兵衛</rdfs:label>
+    <schema:name xml:lang="ja">笠原三郎兵衛</schema:name>
+    <schema:familyName xml:lang="ja">笠原</schema:familyName>
+    <schema:givenName xml:lang="ja">三郎兵衛</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00836"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00372">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">石井浅次郎</rdfs:label>
+    <schema:name xml:lang="ja">石井浅次郎</schema:name>
+    <schema:familyName xml:lang="ja">石井浅次郎</schema:familyName>
+    <schema:givenName xml:lang="ja">浅次郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00836"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00373">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">飯田熊吉</rdfs:label>
+    <schema:name xml:lang="ja">飯田熊吉</schema:name>
+    <schema:familyName xml:lang="ja">飯田</schema:familyName>
+    <schema:givenName xml:lang="ja">熊吉</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00836"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00374">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">渋谷雅治郎</rdfs:label>
+    <schema:name xml:lang="ja">渋谷雅治郎</schema:name>
+    <schema:familyName xml:lang="ja">渋谷</schema:familyName>
+    <schema:givenName xml:lang="ja">雅治郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03651"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00375">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">渋谷元右衛門</rdfs:label>
+    <schema:name xml:lang="ja">渋谷元右衛門</schema:name>
+    <schema:familyName xml:lang="ja">渋谷</schema:familyName>
+    <schema:givenName xml:lang="ja">元右衛門</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03651"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00376">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">阿部要八</rdfs:label>
+    <schema:name xml:lang="ja">阿部要八</schema:name>
+    <schema:familyName xml:lang="ja">阿部</schema:familyName>
+    <schema:givenName xml:lang="ja">要八</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03651"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00377">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">井上登一</rdfs:label>
+    <schema:name xml:lang="ja">井上登一</schema:name>
+    <schema:familyName xml:lang="ja">井上</schema:familyName>
+    <schema:givenName xml:lang="ja">登一</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03659"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00378">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">福田島吉</rdfs:label>
+    <schema:name xml:lang="ja">福田島吉</schema:name>
+    <schema:familyName xml:lang="ja">福田</schema:familyName>
+    <schema:givenName xml:lang="ja">島吉</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03664"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00379">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">座間八三郎</rdfs:label>
+    <schema:name xml:lang="ja">座間八三郎</schema:name>
+    <schema:familyName xml:lang="ja">座間</schema:familyName>
+    <schema:givenName xml:lang="ja">八三郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03664"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00380">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">座間八三郎</rdfs:label>
+    <schema:name xml:lang="ja">座間友三郎</schema:name>
+    <schema:familyName xml:lang="ja">座間</schema:familyName>
+    <schema:givenName xml:lang="ja">友三郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03664"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00381">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">小山万吉</rdfs:label>
+    <schema:name xml:lang="ja">小山万吉</schema:name>
+    <schema:familyName xml:lang="ja">小山</schema:familyName>
+    <schema:givenName xml:lang="ja">万吉</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03664"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00382">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">小山勝右衛門</rdfs:label>
+    <schema:name xml:lang="ja">小山勝右衛門</schema:name>
+    <schema:familyName xml:lang="ja">小山</schema:familyName>
+    <schema:givenName xml:lang="ja">勝右衛門</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03664"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00383">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">堀口義三郎</rdfs:label>
+    <schema:name xml:lang="ja">堀口義三郎</schema:name>
+    <schema:familyName xml:lang="ja">堀口</schema:familyName>
+    <schema:givenName xml:lang="ja">義三郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03535"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00384">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">大曽根作次郎</rdfs:label>
+    <schema:name xml:lang="ja">大曽根作次郎</schema:name>
+    <schema:familyName xml:lang="ja">大曽根</schema:familyName>
+    <schema:givenName xml:lang="ja">作次郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00819"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00385">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">金子邦重</rdfs:label>
+    <schema:name xml:lang="ja">金子邦重</schema:name>
+    <schema:familyName xml:lang="ja">金子</schema:familyName>
+    <schema:givenName xml:lang="ja">邦重</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA00820"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00386">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">若林真十郎</rdfs:label>
+    <schema:name xml:lang="ja">若林真十郎</schema:name>
+    <schema:familyName xml:lang="ja">若林</schema:familyName>
+    <schema:givenName xml:lang="ja">真十郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03118"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/226"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00387">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">中庭蘭渓</rdfs:label>
+    <schema:name xml:lang="ja">中庭蘭渓</schema:name>
+    <schema:familyName xml:lang="ja">中庭</schema:familyName>
+    <schema:givenName xml:lang="ja">蘭渓</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03147"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/226"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00388">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">村上泰治</rdfs:label>
+    <schema:name xml:lang="ja">村上泰治</schema:name>
+    <schema:name xml:lang="ja-Hira">むらかみたいじ</schema:name>
+    <schema:familyName xml:lang="ja">村上</schema:familyName>
+    <schema:givenName xml:lang="ja">泰治</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">むらかみ</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">たいじ</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-9-25</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-6-18</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03147"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <schema:image rdf:resource="https://commons.wikimedia.org/wiki/File:Murakami_Taiji.jpg"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/村上泰治"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q11522837"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/226"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00389">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">井上伝蔵</rdfs:label>
+    <schema:name xml:lang="ja">井上伝蔵</schema:name>
+    <schema:name xml:lang="ja-Hira">いのうえでんぞう</schema:name>
+    <schema:familyName xml:lang="ja">井上</schema:familyName>
+    <schema:givenName xml:lang="ja">伝蔵</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">いのうえ</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">でんぞう</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-7-20</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-6-23</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:birthPlace rdf:resource="AA03156"/>
+    <schema:homeLocation rdf:resource="AA03156"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/井上伝蔵"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q11372824"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/226"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00390">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">高岸善吉</rdfs:label>
+    <schema:name xml:lang="ja">高岸善吉</schema:name>
+    <schema:familyName xml:lang="ja">高岸</schema:familyName>
+    <schema:givenName xml:lang="ja">善吉</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/226"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00391">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">坂本宗作</rdfs:label>
+    <schema:name xml:lang="ja">坂本宗作</schema:name>
+    <schema:familyName xml:lang="ja">坂本</schema:familyName>
+    <schema:givenName xml:lang="ja">宗作</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/226"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00392">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">落合寅市</rdfs:label>
+    <schema:name xml:lang="ja">落合寅市</schema:name>
+    <schema:familyName xml:lang="ja">落合</schema:familyName>
+    <schema:givenName xml:lang="ja">寅市</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03156"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/226"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00393">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">新井蒔蔵</rdfs:label>
+    <schema:name xml:lang="ja">新井蒔蔵</schema:name>
+    <schema:familyName xml:lang="ja">新井</schema:familyName>
+    <schema:givenName xml:lang="ja">蒔蔵</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:memberOf rdf:resource="G00134"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/226"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00394">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">田代栄助</rdfs:label>
+    <schema:name xml:lang="ja">田代栄助</schema:name>
+    <schema:name xml:lang="ja-Hira">たしろえいすけ</schema:name>
+    <schema:familyName xml:lang="ja">田代</schema:familyName>
+    <schema:givenName xml:lang="ja">栄助</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">たしろ</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">えいすけ</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1834-9-16</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-5-17</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:birthPlace rdf:resource="AA03130"/>
+    <schema:homeLocation rdf:resource="AA03130"/>
+    <schema:image rdf:resource="https://commons.wikimedia.org/wiki/File:Tashiro_Eisuke.jpg"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/田代栄助"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q11576171"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00395">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">柴岡熊吉</rdfs:label>
+    <schema:name xml:lang="ja">柴岡熊吉</schema:name>
+    <schema:familyName xml:lang="ja">柴岡</schema:familyName>
+    <schema:givenName xml:lang="ja">熊吉</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03130"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00396">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">新井周三郎</rdfs:label>
+    <schema:name xml:lang="ja">新井周三郎</schema:name>
+    <schema:familyName xml:lang="ja">新井</schema:familyName>
+    <schema:givenName xml:lang="ja">周三郎</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA02806"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00397">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">飯塚森蔵</rdfs:label>
+    <schema:name xml:lang="ja">飯塚森蔵</schema:name>
+    <schema:familyName xml:lang="ja">飯塚</schema:familyName>
+    <schema:givenName xml:lang="ja">森蔵</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03156"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00398">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">加藤織平</rdfs:label>
+    <schema:name xml:lang="ja">加藤織平</schema:name>
+    <schema:familyName xml:lang="ja">加藤</schema:familyName>
+    <schema:givenName xml:lang="ja">織平</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03154"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00399">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">宮川津盛</rdfs:label>
+    <schema:name xml:lang="ja">宮川津盛</schema:name>
+    <schema:familyName xml:lang="ja">宮川</schema:familyName>
+    <schema:givenName xml:lang="ja">津盛</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03146"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00400">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">菊池貫平</rdfs:label>
+    <schema:name xml:lang="ja">菊池貫平</schema:name>
+    <schema:name xml:lang="ja-Hira">きくちかんぺい</schema:name>
+    <schema:familyName xml:lang="ja">菊池</schema:familyName>
+    <schema:givenName xml:lang="ja">貫平</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">きくち</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">かんぺい</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1847-2-21</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-3-18</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/菊池貫平"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q18336804"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00401">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">大野苗吉</rdfs:label>
+    <schema:name xml:lang="ja">大野苗吉</schema:name>
+    <schema:familyName xml:lang="ja">大野</schema:familyName>
+    <schema:givenName xml:lang="ja">苗吉</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03112"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="E00001">
@@ -39084,8 +39596,8 @@
 
   <rdf:Description rdf:about="AA03535">
     <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
-    <rdfs:label xml:lang="ja">上依智村</rdfs:label>
-    <schema:name xml:lang="ja">上依智村</schema:name>
+    <rdfs:label xml:lang="ja">上依知村</rdfs:label>
+    <schema:name xml:lang="ja">上依知村</schema:name>
     <geo:long>139.36147</geo:long>
     <geo:lat>35.5148</geo:lat>
     <schema:containedInPlace rdf:resource="AA00029"/>
@@ -39093,8 +39605,8 @@
 
   <rdf:Description rdf:about="AA03536">
     <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
-    <rdfs:label xml:lang="ja">中依智村</rdfs:label>
-    <schema:name xml:lang="ja">中依智村</schema:name>
+    <rdfs:label xml:lang="ja">中依知村</rdfs:label>
+    <schema:name xml:lang="ja">中依知村</schema:name>
     <geo:long>139.36893</geo:long>
     <geo:lat>35.47838</geo:lat>
     <schema:containedInPlace rdf:resource="AA00029"/>
@@ -39102,8 +39614,8 @@
 
   <rdf:Description rdf:about="AA03537">
     <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
-    <rdfs:label xml:lang="ja">下依智村</rdfs:label>
-    <schema:name xml:lang="ja">下依智村</schema:name>
+    <rdfs:label xml:lang="ja">下依知村</rdfs:label>
+    <schema:name xml:lang="ja">下依知村</schema:name>
     <geo:long>139.37373</geo:long>
     <geo:lat>35.47278</geo:lat>
     <schema:containedInPlace rdf:resource="AA00029"/>
@@ -42702,6 +43214,15 @@
     <geo:long>139.45653</geo:long>
     <geo:lat>36.13823</geo:lat>
     <schema:containedInPlace rdf:resource="AB00054"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="AB00075">
+    <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
+    <rdfs:label xml:lang="ja">南大沢村</rdfs:label>
+    <schema:name xml:lang="ja">南大沢村</schema:name>
+    <geo:long>139.38289</geo:long>
+    <geo:lat>35.61866</geo:lat>
+    <schema:containedInPlace rdf:resource="AB00005"/>
   </rdf:Description>
 
 </rdf:RDF>
