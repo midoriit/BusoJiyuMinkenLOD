@@ -7619,6 +7619,25 @@
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/162"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="E00066">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">秩父事件</rdfs:label>
+    <schema:name xml:lang="ja">秩父事件</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1884-10-31</schema:startDate>
+    <schema:location rdf:resource="L00031"/>
+    <schema:organizer rdf:resource="P00394"/>
+    <schema:organizer rdf:resource="P00389"/>
+    <schema:organizer rdf:resource="P00395"/>
+    <schema:organizer rdf:resource="P00396"/>
+    <schema:organizer rdf:resource="P00397"/>
+    <schema:organizer rdf:resource="P00398"/>
+    <schema:organizer rdf:resource="P00399"/>
+    <schema:organizer rdf:resource="P00400"/>
+    <schema:organizer rdf:resource="P00401"/>
+    <schema:organizer rdf:resource="P00392"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/232"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="L00001">
     <rdf:type rdf:resource="https://schema.org/Place"/>
     <rdfs:label xml:lang="ja">佐の茂</rdfs:label>
@@ -7878,6 +7897,16 @@
     <schema:name xml:lang="ja">鶴座</schema:name>
     <schema:containedInPlace rdf:resource="AB00021"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/162"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="L00031">
+    <rdf:type rdf:resource="https://schema.org/Place"/>
+    <rdfs:label xml:lang="ja">椋神社</rdfs:label>
+    <schema:name xml:lang="ja">椋神社</schema:name>
+    <geo:long>139.032928</geo:long>
+    <geo:lat>36.045106</geo:lat>
+    <schema:containedInPlace rdf:resource="AA03156"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/232"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="AA00001">
