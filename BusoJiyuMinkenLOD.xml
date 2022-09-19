@@ -113,7 +113,7 @@
     <rdfs:label xml:lang="ja">橘樹郡親睦会</rdfs:label>
     <schema:name xml:lang="ja">橘樹郡親睦会</schema:name>
     <schema:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-2-11</schema:foundingDate>
-    <schema:location rdf:resource="AA00006"/>
+    <schema:location rdf:resource="AB00047"/>
     <schema:founder rdf:resource="P00019"/>
     <schema:organizer rdf:resource="P00020"/>
     <schema:organizer rdf:resource="P00021"/>
@@ -130,7 +130,7 @@
     <rdfs:label xml:lang="ja">旧五大区親睦会</rdfs:label>
     <schema:name xml:lang="ja">旧五大区親睦会</schema:name>
     <schema:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-7-1</schema:foundingDate>
-    <schema:location rdf:resource="AA00006"/>
+    <schema:location rdf:resource="AB00047"/>
     <schema:founder rdf:resource="P00022"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
   </rdf:Description>
@@ -2100,6 +2100,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1838</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1898</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00548"/>
+    <schema:homeLocation rdf:resource="AB00076"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/128"/>
@@ -2171,6 +2172,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00551"/>
+    <schema:homeLocation rdf:resource="AA00551"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/45"/>
@@ -2228,6 +2230,7 @@
     <schema:givenName xml:lang="ja-Hira">きゅうや</schema:givenName>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908</schema:deathDate>
     <schema:birthPlace rdf:resource="AA01121"/>
+    <schema:homeLocation rdf:resource="AA00551"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/210"/>
@@ -43335,6 +43338,16 @@
     <geo:long>139.38289</geo:long>
     <geo:lat>35.61866</geo:lat>
     <schema:containedInPlace rdf:resource="AB00005"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="AB00076">
+    <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
+    <rdfs:label xml:lang="ja">生田村</rdfs:label>
+    <schema:name xml:lang="ja">生田村</schema:name>
+    <geo:long>139.54197</geo:long>
+    <geo:lat>35.616</geo:lat>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/生田村_(神奈川県)"/>
+    <schema:containedInPlace rdf:resource="AA00006"/>
   </rdf:Description>
 
 </rdf:RDF>
