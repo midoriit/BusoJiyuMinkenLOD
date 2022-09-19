@@ -1688,7 +1688,7 @@
   <rdf:Description rdf:about="G00137">
     <rdf:type rdf:resource="https://schema.org/Organization"/>
     <rdfs:label xml:lang="ja">秩父困民党</rdfs:label>
-    <schema:name xml:lang="ja">困民党</schema:name>
+    <schema:name xml:lang="ja">秩父困民党</schema:name>
     <schema:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1883-8</schema:foundingDate>
     <schema:organizer rdf:resource="P00389"/>
     <schema:organizer rdf:resource="P00390"/>
@@ -1703,6 +1703,14 @@
     <schema:organizer rdf:resource="P00400"/>
     <schema:organizer rdf:resource="P00401"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/227"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="G00138">
+    <rdf:type rdf:resource="https://schema.org/Organization"/>
+    <rdfs:label xml:lang="ja">多摩北部困民党</rdfs:label>
+    <schema:name xml:lang="ja">多摩北部困民党</schema:name>
+    <schema:organizer rdf:resource="P00404"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/115"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="P00001">
@@ -6415,7 +6423,7 @@
     <schema:familyName xml:lang="ja">須長</schema:familyName>
     <schema:givenName xml:lang="ja">漣造</schema:givenName>
     <schema:gender rdf:resource="https://schema.org/Male"/>
-    <schema:homeLocation rdf:resource="AA00881"/>
+    <schema:homeLocation rdf:resource="AA01117"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
   </rdf:Description>
 
@@ -6651,7 +6659,7 @@
     <schema:familyName xml:lang="ja-Hira">むらかみ</schema:familyName>
     <schema:givenName xml:lang="ja-Hira">たいじ</schema:givenName>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-9-25</schema:birthDate>
-    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-6-18</schema:deathDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1887-6-18</schema:deathDate>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <schema:homeLocation rdf:resource="AA03147"/>
     <schema:memberOf rdf:resource="G00134"/>
@@ -6736,7 +6744,7 @@
     <schema:familyName xml:lang="ja-Hira">たしろ</schema:familyName>
     <schema:givenName xml:lang="ja-Hira">えいすけ</schema:givenName>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1834-9-16</schema:birthDate>
-    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-5-17</schema:deathDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-5-17</schema:deathDate>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <schema:birthPlace rdf:resource="AA03130"/>
     <schema:homeLocation rdf:resource="AA03130"/>
@@ -6827,6 +6835,51 @@
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <schema:homeLocation rdf:resource="AA03112"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/233"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00402">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">渋谷彦右衛門</rdfs:label>
+    <schema:name xml:lang="ja">渋谷彦右衛門</schema:name>
+    <schema:name xml:lang="ja-Hira">しぶやひこえもん</schema:name>
+    <schema:familyName xml:lang="ja">渋谷</schema:familyName>
+    <schema:givenName xml:lang="ja">彦右衛門</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">しぶや</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">ひこえもん</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1851</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03651"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/194"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00403">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">渋谷彦兵衛</rdfs:label>
+    <schema:name xml:lang="ja">渋谷彦兵衛</schema:name>
+    <schema:familyName xml:lang="ja">渋谷</schema:familyName>
+    <schema:givenName xml:lang="ja">彦兵衛</schema:givenName>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA03651"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="P00404">
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdfs:label xml:lang="ja">塩野倉之助</rdfs:label>
+    <schema:name xml:lang="ja">塩野倉之助</schema:name>
+    <schema:name xml:lang="ja-Hira">しおのくらのすけ</schema:name>
+    <schema:familyName xml:lang="ja">塩野</schema:familyName>
+    <schema:givenName xml:lang="ja">倉之助</schema:givenName>
+    <schema:familyName xml:lang="ja-Hira">しおの</schema:familyName>
+    <schema:givenName xml:lang="ja-Hira">くらのすけ</schema:givenName>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1826</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907</schema:deathDate>
+    <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:homeLocation rdf:resource="AA01002"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/115"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/191"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="E00001">
@@ -7638,6 +7691,25 @@
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/232"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="E00067">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">困民党大会</rdfs:label>
+    <schema:name xml:lang="ja">困民党大会</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1884-11-19</schema:startDate>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/251"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="E00068">
+    <rdf:type rdf:resource="https://schema.org/Event"/>
+    <rdfs:label xml:lang="ja">御殿峠事件</rdfs:label>
+    <schema:name xml:lang="ja">御殿峠事件</schema:name>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1884-8-10</schema:startDate>
+    <schema:location rdf:resource="L00032"/>
+    <schema:organizer rdf:resource="P00402"/>
+    <schema:organizer rdf:resource="P00403"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/250"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="L00001">
     <rdf:type rdf:resource="https://schema.org/Place"/>
     <rdfs:label xml:lang="ja">佐の茂</rdfs:label>
@@ -7907,6 +7979,17 @@
     <geo:lat>36.045106</geo:lat>
     <schema:containedInPlace rdf:resource="AA03156"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/232"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="L00032">
+    <rdf:type rdf:resource="https://schema.org/Place"/>
+    <rdfs:label xml:lang="ja">御殿峠</rdfs:label>
+    <schema:name xml:lang="ja">御殿峠</schema:name>
+    <geo:long>139.341111</geo:long>
+    <geo:lat>35.621111</geo:lat>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/御殿峠"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q11489171"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/250"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="AA00001">
