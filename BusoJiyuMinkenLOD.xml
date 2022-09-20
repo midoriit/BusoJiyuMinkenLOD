@@ -42713,6 +42713,8 @@
     <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
     <rdfs:label xml:lang="ja">横浜区</rdfs:label>
     <schema:name xml:lang="ja">横浜区</schema:name>
+    <geo:long>139.637955</geo:long>
+    <geo:lat>35.444035</geo:lat>
   </rdf:Description>
 
   <rdf:Description rdf:about="AB00007">
