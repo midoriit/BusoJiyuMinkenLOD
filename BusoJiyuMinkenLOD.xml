@@ -2173,6 +2173,7 @@
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00551"/>
     <schema:homeLocation rdf:resource="AA00551"/>
+    <schema:memberOf rdf:resource="G00135"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/45"/>
@@ -3932,6 +3933,8 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1848</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-7-12</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00557"/>
+    <schema:homeLocation rdf:resource="AA00557"/>
+    <schema:memberOf rdf:resource="G00134"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/216"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/66"/>
@@ -3949,6 +3952,8 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1855</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-8-14</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00680"/>
+    <schema:homeLocation rdf:resource="AA00680"/>
+    <schema:memberOf rdf:resource="G00134"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/216"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/33"/>
