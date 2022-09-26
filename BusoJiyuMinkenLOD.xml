@@ -2632,7 +2632,6 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1841</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927</schema:deathDate>
     <schema:homeLocation rdf:resource="AA00889"/>
-    <schema:image rdf:resource="https://commons.wikimedia.org/wiki/File:0B69CCC9-3B48-4E28-9CC5-D0B8E2EEBAB中溝昌弘.jpg"/>
     <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/中溝昌弘"/>
     <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q110774377"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/212"/>
