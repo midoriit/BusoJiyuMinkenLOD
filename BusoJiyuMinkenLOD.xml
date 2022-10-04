@@ -113,7 +113,7 @@
     <rdfs:label xml:lang="ja">橘樹郡親睦会</rdfs:label>
     <schema:name xml:lang="ja">橘樹郡親睦会</schema:name>
     <schema:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-2-11</schema:foundingDate>
-    <schema:location rdf:resource="AB00047"/>
+    <schema:location rdf:resource="AA00557"/>
     <schema:founder rdf:resource="P00019"/>
     <schema:organizer rdf:resource="P00020"/>
     <schema:organizer rdf:resource="P00021"/>
@@ -122,7 +122,10 @@
     <schema:organizer rdf:resource="P00024"/>
     <schema:organizer rdf:resource="P00025"/>
     <schema:organizer rdf:resource="P00026"/>
+    <schema:member rdf:resource="P00031"/>
+    <schema:member rdf:resource="P00043"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/161"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="G00011">
@@ -130,7 +133,7 @@
     <rdfs:label xml:lang="ja">旧五大区親睦会</rdfs:label>
     <schema:name xml:lang="ja">旧五大区親睦会</schema:name>
     <schema:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-7-1</schema:foundingDate>
-    <schema:location rdf:resource="AB00047"/>
+    <schema:location rdf:resource="AA00557"/>
     <schema:founder rdf:resource="P00022"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
   </rdf:Description>
@@ -2052,10 +2055,12 @@
     <schema:givenName xml:lang="ja">直成</schema:givenName>
     <schema:familyName xml:lang="ja-Hira">すずき</schema:familyName>
     <schema:givenName xml:lang="ja-Hira">なおなり</schema:givenName>
-    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1887</schema:deathDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1887-3-7</schema:deathDate>
     <schema:gender rdf:resource="https://schema.org/Male"/>
     <schema:birthPlace rdf:resource="AA00557"/>
-    <schema:homeLocation rdf:resource="AB00047"/>
+    <schema:homeLocation rdf:resource="AA00557"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/鈴木直成"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q114394437"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/214"/>
   </rdf:Description>
@@ -2106,11 +2111,13 @@
     <schema:givenName xml:lang="ja">平蔵</schema:givenName>
     <schema:familyName xml:lang="ja-Hira">かわい</schema:familyName>
     <schema:givenName xml:lang="ja-Hira">へいぞう</schema:givenName>
-    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1838</schema:birthDate>
-    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1898</schema:deathDate>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1838-9-11</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1898-6-13</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00548"/>
     <schema:homeLocation rdf:resource="AB00076"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/河合平蔵"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q114393861"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/128"/>
   </rdf:Description>
@@ -2178,12 +2185,14 @@
     <schema:givenName xml:lang="ja">文三</schema:givenName>
     <schema:familyName xml:lang="ja-Hira">いだ</schema:familyName>
     <schema:givenName xml:lang="ja-Hira">ぶんぞう</schema:givenName>
-    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853</schema:birthDate>
-    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936</schema:deathDate>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-8-15</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-11-11</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00551"/>
     <schema:homeLocation rdf:resource="AA00551"/>
     <schema:memberOf rdf:resource="G00135"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/井田文三"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q114394691"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/45"/>
   </rdf:Description>
@@ -3938,12 +3947,14 @@
     <schema:givenName xml:lang="ja">忠一郎</schema:givenName>
     <schema:familyName xml:lang="ja-Hira">うえだ</schema:familyName>
     <schema:givenName xml:lang="ja-Hira">ちゅういちろう</schema:givenName>
-    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1848</schema:birthDate>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1848-6-18</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-7-12</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00557"/>
     <schema:homeLocation rdf:resource="AA00557"/>
     <schema:memberOf rdf:resource="G00134"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/上田忠一郎"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q114394545"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/216"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/66"/>
   </rdf:Description>
@@ -3957,14 +3968,17 @@
     <schema:givenName xml:lang="ja">幸操</schema:givenName>
     <schema:familyName xml:lang="ja-Hira">いけがみ</schema:familyName>
     <schema:givenName xml:lang="ja-Hira">ゆきこと</schema:givenName>
-    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1855</schema:birthDate>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1855-6-16</schema:birthDate>
     <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-8-14</schema:deathDate>
     <schema:birthPlace rdf:resource="AA00680"/>
     <schema:homeLocation rdf:resource="AA00680"/>
     <schema:memberOf rdf:resource="G00134"/>
     <schema:gender rdf:resource="https://schema.org/Male"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/池上幸操"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q114394305"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/216"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522836/33"/>
+    <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/964988/82"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="P00172">
@@ -6925,7 +6939,7 @@
     <rdfs:label xml:lang="ja">旧五大区親睦会</rdfs:label>
     <schema:name xml:lang="ja">旧五大区親睦会</schema:name>
     <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-7-1</schema:startDate>
-    <schema:location rdf:resource="AB00047"/>
+    <schema:location rdf:resource="AA00557"/>
     <schema:organizer rdf:resource="G00011"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522732/210"/>
   </rdf:Description>
@@ -7737,7 +7751,7 @@
     <rdf:type rdf:resource="https://schema.org/Place"/>
     <rdfs:label xml:lang="ja">桜鶴楼</rdfs:label>
     <schema:name xml:lang="ja">桜鶴楼</schema:name>
-    <schema:containedInPlace rdf:resource="AB00047"/>
+    <schema:containedInPlace rdf:resource="AA00557"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="L00003">
@@ -7755,7 +7769,7 @@
     <rdf:type rdf:resource="https://schema.org/Place"/>
     <rdfs:label xml:lang="ja">宗隆寺</rdfs:label>
     <schema:name xml:lang="ja">宗隆寺</schema:name>
-    <schema:containedInPlace rdf:resource="AB00047"/>
+    <schema:containedInPlace rdf:resource="AA00557"/>
     <geo:long>139.609389</geo:long>
     <geo:lat>35.602528</geo:lat>
     <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/宗隆寺"/>
@@ -7943,7 +7957,7 @@
     <rdf:type rdf:resource="https://schema.org/Place"/>
     <rdfs:label xml:lang="ja">小池楼</rdfs:label>
     <schema:name xml:lang="ja">小池楼</schema:name>
-    <schema:containedInPlace rdf:resource="AB00047"/>
+    <schema:containedInPlace rdf:resource="AA00557"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9522833/161"/>
   </rdf:Description>
 
@@ -43093,14 +43107,7 @@
     <schema:containedInPlace rdf:resource="AB00045"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="AB00047">
-    <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
-    <rdfs:label xml:lang="ja">溝ノ口村</rdfs:label>
-    <schema:name xml:lang="ja">溝ノ口村</schema:name>
-    <geo:long>139.61047</geo:long>
-    <geo:lat>35.60238</geo:lat>
-    <schema:containedInPlace rdf:resource="AA00006"/>
-  </rdf:Description>
+  <!-- AB00047 -->
 
   <rdf:Description rdf:about="AB00048">
     <rdf:type rdf:resource="https://schema.org/AdministrativeArea"/>
