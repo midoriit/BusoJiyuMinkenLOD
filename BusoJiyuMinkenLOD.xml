@@ -8008,6 +8008,8 @@
     <geo:long>139.032928</geo:long>
     <geo:lat>36.045106</geo:lat>
     <schema:containedInPlace rdf:resource="AA03156"/>
+    <schema:sameAs rdf:resource="https://ja.wikipedia.org/wiki/椋神社"/>
+    <schema:sameAs rdf:resource="https://www.wikidata.org/wiki/Q11540486"/>
     <dcterms:source rdf:resource="https://dl.ndl.go.jp/info:ndljp/pid/9644254/232"/>
   </rdf:Description>
 
